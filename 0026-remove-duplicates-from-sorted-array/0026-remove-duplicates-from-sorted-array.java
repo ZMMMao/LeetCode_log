@@ -24,7 +24,6 @@ class Solution {
             if(right > 0 && nums[right] == nums[right - 1]) continue;
             nums[left] = nums[right];
             left++;
-            
         }
         return left;
     }
