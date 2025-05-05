@@ -2,12 +2,15 @@
 Algo: linear sort, two pointer
 Data Structure: array
 
-Timer:
+Timer: 10:26, >= comparison
 
-TC:
-SC:
+TC: O(nlogn) -- array sort
+SC: O(n)
 TestCase:
-
+same intervals
+all ovelapping intevals
+empty
+no overlap
  */
 class Solution {
     public int[][] merge(int[][] intervals) {
