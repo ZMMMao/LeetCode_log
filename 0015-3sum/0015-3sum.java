@@ -1,7 +1,19 @@
 /**
 Algo: linear sort
 Data Structure: List, two(3) pointer
+TC: O(n^2)
+SC: O(n)
 
+Test case:
+Empty
+All duplicate
+All 0
+sorted
+reverse sorted
+large numbers
+all negative
+all positive
+mixed neagtive and positive
  */
 
 class Solution {
