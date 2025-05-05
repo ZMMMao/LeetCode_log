@@ -2,13 +2,20 @@
 Algo: linear sort, two pointer
 Data Structrue: array, two pointer
 
-Time: 
+Time: 14m15s; 
+Takeaway: sort arr first + exclude 0
 
-TC:
-SC:
+TC: O(n^2)
+SC: O(1) in-place
 
 TestCase:
-
+All 0
+same number
+large number
+reverse sorted number
+all odd
+all even
+empty
 
  */
 class Solution {
