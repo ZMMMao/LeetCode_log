@@ -4,12 +4,16 @@ Data Sturcture: array
 
 Time: 
 
-TC:
+TC: O(n)
 SC: O(1)
 TestCase:
-
-
-
+negative numbers
+positive numbers
+0
+all duplicate number
+large numbers
+empty
+duplicate at the second half
  */
 class Solution {
     public int removeDuplicates(int[] nums) {
@@ -22,8 +26,6 @@ class Solution {
             nums[left] = nums[right];
             left++;
             res++;
-            
-            
         }
         return res;
     }
