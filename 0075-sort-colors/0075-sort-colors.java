@@ -2,12 +2,16 @@
 Algo: two pointer, linear sort
 Data Structure: array
 
-Time:
+Time: 26min, right pointer handle
 
-TC:
-SC:
+TC: O(n)
+SC: O(1)
 TestCase:
-
+all 0/1/2
+reverse sorted
+empty
+0-1-2-0-1-2
+sorted
  */
 class Solution {
     public void sortColors(int[] nums) {
