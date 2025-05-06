@@ -15,11 +15,8 @@
 
  Time:
 
- TC:
- SC:
- TestCase:
-
- 
+ TC: O(n)
+ SC: O(1)
   */
 class Solution {
     public ListNode middleNode(ListNode head) {
