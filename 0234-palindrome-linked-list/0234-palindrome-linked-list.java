@@ -11,7 +11,7 @@
  /**
  TC: O(n)
  SC: O(1)
-
+reversed list, may need a helper function to maintain a clean result
   */
 class Solution {
     public boolean isPalindrome(ListNode head) {
@@ -23,6 +23,7 @@ class Solution {
         }
         ListNode prv = null;
         ListNode curr = slow;
+        //reverse function here
         while(curr != null){
             ListNode nxt = curr.next;
             curr.next = prv;
