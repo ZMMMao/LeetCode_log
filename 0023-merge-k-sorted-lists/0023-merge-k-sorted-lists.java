@@ -7,6 +7,10 @@
  *     ListNode(int val) { this.val = val; }
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
+Algo: min-heap
+Data Structure: min-heap(PQ), array, linked list
+TC: O(nlogk) k is lists.length (num of lists)
+SC: O(k)
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
