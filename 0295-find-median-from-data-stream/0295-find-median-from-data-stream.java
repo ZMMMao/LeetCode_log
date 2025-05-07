@@ -1,6 +1,6 @@
 /**
 Algo: max heap and min heap
-TC: O(logn)
+TC: O(logn) for add, O(1) for findMedian
 SC: O(n)
 
  */
