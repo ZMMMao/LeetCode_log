@@ -9,7 +9,7 @@ class MedianFinder {
     private PriorityQueue<Integer> large;
 
     public MedianFinder() {
-        small = new PriorityQueue<>((a, b) -> Integer.compare(b, a));
+        small = new PriorityQueue<>((a, b) -> b - a);
         large = new PriorityQueue<>();
     }
     
