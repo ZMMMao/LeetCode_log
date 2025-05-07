@@ -26,13 +26,13 @@ class MedianFinder {
     public double findMedian() {
         double median = 0;
         if(small.size() > large.size()){
-            median = small.peek();
+            return small.peek();
         }else if(small.size() < large.size()){
-            median = large.peek();
+            return large.peek();
         }else{
-            median = (small.peek() + large.peek())/2.0;
+            return (small.peek() + large.peek())/2.0;
         }
-        return median;
+        
     }
 }
 
