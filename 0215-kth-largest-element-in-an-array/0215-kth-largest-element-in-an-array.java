@@ -1,7 +1,7 @@
 /**
 Algo: min heap/PQ
 Data Struc: min heap
-TC: O(logk)
+TC: O(nlogk)
 SC: O(k)
  */
 
