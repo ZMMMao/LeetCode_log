@@ -1,3 +1,11 @@
+/**
+Algo: min heap/PQ
+Data Struc: min heap
+TC: O(logk)
+SC: O(k)
+ */
+
+
 class Solution {
     public int findKthLargest(int[] nums, int k) {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
