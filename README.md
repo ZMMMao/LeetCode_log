@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 <!---LeetCode Topics End-->
