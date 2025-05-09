@@ -16,11 +16,11 @@ class Solution {
             pair += count.get(nums[i]) - 1;
             
             while(pair >= k){
-                res += n - i;
                 pair-= count.get(nums[left]) - 1;
                 count.put(nums[left], count.get(nums[left]) - 1);
                 left++;
-            }        
+            }       
+            res += left;
         }
         return res;
     }
