@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
+| [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
+| [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ZMMMao/LeetCode_log/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0142-linked-list-cycle-ii) |
+| [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -103,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
