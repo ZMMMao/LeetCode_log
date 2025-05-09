@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ZMMMao/LeetCode_log/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0142-linked-list-cycle-ii) |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Divide and Conquer
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
@@ -110,9 +114,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
