@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -192,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
