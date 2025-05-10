@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
 <!---LeetCode Topics End-->
