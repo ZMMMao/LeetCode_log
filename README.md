@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2890-count-substrings-without-repeating-character](https://github.com/ZMMMao/LeetCode_log/tree/master/2890-count-substrings-without-repeating-character) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
 ## Dynamic Programming
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Queue
 |  |
