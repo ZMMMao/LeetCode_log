@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2890-count-substrings-without-repeating-character](https://github.com/ZMMMao/LeetCode_log/tree/master/2890-count-substrings-without-repeating-character) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Divide and Conquer
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2890-count-substrings-without-repeating-character](https://github.com/ZMMMao/LeetCode_log/tree/master/2890-count-substrings-without-repeating-character) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Counting
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2890-count-substrings-without-repeating-character](https://github.com/ZMMMao/LeetCode_log/tree/master/2890-count-substrings-without-repeating-character) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Radix Sort
 |  |
