@@ -1,6 +1,6 @@
 /**
 Algo: Sliding window
-Data Structure:
+Data Structure: array, two pointer, window tricks
 TC: O(n)
 SC: O(n)
  */
