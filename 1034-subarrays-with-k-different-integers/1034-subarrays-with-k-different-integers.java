@@ -1,8 +1,8 @@
 /**
 Algo: Sliding window
 Data Structure:
-TC:
-SC:
+TC: O(n)
+SC: O(n)
  */
 class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
