@@ -1,3 +1,9 @@
+/**
+Algo: binary Search
+Data Structure: array
+TC: O(logn)
+SC: O(1)
+ */
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
         int left = -1;
