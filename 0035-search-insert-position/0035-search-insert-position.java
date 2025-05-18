@@ -1,7 +1,7 @@
 /**
 Algo: binary search
 Data Stucture: array
-TC: O(n)
+TC: O(logn)
 SC: O(1)
  */
 class Solution {
