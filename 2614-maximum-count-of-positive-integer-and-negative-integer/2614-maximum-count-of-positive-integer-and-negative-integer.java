@@ -1,8 +1,8 @@
 /**
-Algo:
-Data Structure:
-TC:
-SC:
+Algo: Binary Search
+Data Structure: array
+TC: O(logN)
+SC: O(1)
  */
 class Solution {
     public int maximumCount(int[] nums) {
