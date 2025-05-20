@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ZMMMao/LeetCode_log/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0792-binary-search) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
 | ------- |
