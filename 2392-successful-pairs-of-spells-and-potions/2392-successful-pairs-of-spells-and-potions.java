@@ -3,6 +3,9 @@ Algo: Binary Search
 Data Structure: array
 TC: O(nlogn)
 SC: O(n)
+Bug and note: 
+ 1. long type for spells and potions
+ 2. potions can/must be sorted to use binary search
  */
 class Solution {
     public int[] successfulPairs(int[] spells, int[] potions, long success) {
