@@ -1,5 +1,5 @@
 /**
-Algo: Binary Search
+Algo: Binary Search + prefixSum
 Data Structure: array
 TC: O(nlogn + logm)
 SC: O(n + m)
