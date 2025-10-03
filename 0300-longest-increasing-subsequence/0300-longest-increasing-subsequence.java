@@ -1,27 +1,35 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-    //     int n = nums.length;
-    //     int[] memo = new int[n];
-    //     int max = 0;
-    //     for(int i = 0; i < n; i++){
-    //         max = Math.max(max, dfs(i, memo, nums));
-    //     }
-    //     return max;
-    // }
+        /** 
+        greedy + binarySearch
+        TC: O(nlogn)
+        SC: O(1)
+         */
 
-    // public int dfs(int idx, int[] memo, int[] nums){
-    //     if(memo[idx] > 0) return memo[idx];
+        int ng = 0;
+        for(int num : nums){
+            int j = lowerBound(nums, ng, num);
+            nums[j] = num;
+            if(j == ng) ng++;
+        }
+        return ng;
+    }
 
-    //     int res = 0;
-    //     for(int j = 0; j < idx; j++){
-    //         if(nums[j] < nums[idx]){
-    //             res = Math.max(res, dfs(j, memo, nums));
-    //         }
-    //     }
-    //     res++;
-    //     return memo[idx] = res;
-    // }
-        int n = nums.length;
+    public int lowerBound(int[] nums, int right, int target){
+        int left = -1;
+        while(left + 1 < right){
+            int mid = left + (right - left) / 2;
+            if(nums[mid] >= target){
+                right = mid;
+            }else{ left = mid;}
+        }
+        return right;
+    }
+}
+/**
+TC: O(n^2)
+SC: O(n)
+int n = nums.length;
         int[] memo = new int[n];
         int max = 0;
         for(int i = 0; i < n; i++){
@@ -34,10 +42,4 @@ class Solution {
             max = Math.max(max, memo[i]);
         }
         return max;
-    }
-}
-/**
-TC: O(n^2)
-SC: O(n)
-
  */
