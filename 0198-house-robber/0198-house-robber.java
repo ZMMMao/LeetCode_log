@@ -14,3 +14,8 @@ class Solution {
         return memo[idx] = Math.max(nums[idx] + dfs(nums, memo, idx - 2), dfs(nums, memo, idx - 1));
     }
 }
+/**
+recursion + memo array
+TC: O(n)
+SC: O(n)
+*/ 
