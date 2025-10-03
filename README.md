@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/ZMMMao/LeetCode_log/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/ZMMMao/LeetCode_log/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ZMMMao/LeetCode_log/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZMMMao/LeetCode_log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ZMMMao/LeetCode_log/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ZMMMao/LeetCode_log/tree/master/1013-fibonacci-number) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
