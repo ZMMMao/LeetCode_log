@@ -15,3 +15,8 @@ class Solution {
         return max;
     }
 }
+/**
+TC: O(n^2)
+SC: O(n)
+
+ */
