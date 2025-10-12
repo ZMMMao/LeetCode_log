@@ -1,32 +1,15 @@
-/**
-algo: linear sorting
-data structure: hashMap
-tc: O(n)
-sc: O(n)
-
-test case:
-empty
-same number
-very large number
-negative 
-mixed negative + positive
-0
-sorted
-reverse sorted
-many set of duplicate number
- */
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> idx = new HashMap<>();
-        int n = nums.length;
-        for(int i = 0; i < n; i++){
-            int need = target - nums[i];
-            if(idx.containsKey(need)){
-                return new int[]{i, idx.get(need)};
+        Map<Integer, Integer> map = new HashMap<>();
+        int[] result = new int[2];
+        for(int i = 0; i < nums.length; i++){
+            if(map.containsKey(target - nums[i])){
+                result[0] = i;
+                result[1] = map.get(target - nums[i]);
+                break;
             }
-            idx.put(nums[i], i);
+            map.put(nums[i], i);
         }
-        return new int[2];
+        return result;
     }
 }
