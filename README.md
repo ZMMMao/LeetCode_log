@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ZMMMao/LeetCode_log/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ZMMMao/LeetCode_log/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZMMMao/LeetCode_log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ZMMMao/LeetCode_log/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ZMMMao/LeetCode_log/tree/master/0200-number-of-islands) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ZMMMao/LeetCode_log/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/ZMMMao/LeetCode_log/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ZMMMao/LeetCode_log/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0343-integer-break) |
@@ -339,5 +344,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ZMMMao/LeetCode_log/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
