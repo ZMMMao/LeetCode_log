@@ -1,47 +1,42 @@
-/**
-Algo: linear sort
-Data Structure: List, two(3) pointer
-TC: O(n^2)
-SC: O(n)
-
-Test case:
-Empty
-All duplicate
-All 0
-sorted
-reverse sorted
-large numbers
-all negative
-all positive
-mixed neagtive and positive
- */
-
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+        return helper(nums, 0);
+    }
+    public List<List<Integer>> helper(int[] nums, int target){
         Arrays.sort(nums);
+        List<List<Integer>> res = new ArrayList<>();
         int n = nums.length;
-        List<List<Integer>> res = new LinkedList<>();
-        if(n == 0 || nums[0] > 0) return res;
-        for(int i = 0; i < n - 2; i++){
-            if(i > 0 && nums[i] == nums[i - 1]) continue;
-            int left = i + 1;
-            int right = n - 1;
-            while(left < right){
-                int sum = nums[i] + nums[left] + nums[right];
-                if(sum == 0){
-                    res.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    while(left < right && nums[left] == nums[left + 1]) left++;
-                    while(left < right && nums[right] == nums[right - 1]) right--;
-                    left++;
-                    right--;
-                } else if(sum > 0){right--;}
-                else{ left++;}
-                
-
+        for(int i = 0; i < n; i++){
+            List<List<Integer>> pairs = twoSum(nums, i + 1, target - nums[i]);
+            for(List<Integer> pair : pairs){
+                res.add(Arrays.asList(nums[i], pair.get(0), pair.get(1)));
             }
+            while(i < n - 1 && nums[i] == nums[i + 1]) i++;
         }
         return res;
     }
-        
-    
+    public List<List<Integer>> twoSum(int[] nums, int left, int target){
+        List<List<Integer>> pairs = new ArrayList<>();
+        int right = nums.length - 1;
+        while(left < right){
+            int sum = nums[left] + nums[right];
+            if(sum == target){;
+                pairs.add(Arrays.asList(nums[left], nums[right]));
+                int l = nums[left];
+                int r = nums[right];
+                while(left < right && nums[left] == l) left++;
+                while(left < right && nums[right] == r) right--;
+            }
+            else if(sum < target){
+                left++;
+            }else{
+                right--;
+            }
+        }
+        return pairs;
+    }
 }
+/**
+TC: O(n^2)
+SC: O(1)
+ */
