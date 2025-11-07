@@ -11,8 +11,7 @@ class Solution {
         map.put(']', '[');
         Deque<Character> stack = new ArrayDeque<>();
         
-        char[] ch = s.toCharArray();
-        for(char c : ch){
+        for(char c : s.toCharArray()){
             if(!map.containsKey(c)){
                 stack.push(c);
             }else{
