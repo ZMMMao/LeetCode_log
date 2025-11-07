@@ -23,6 +23,10 @@ class Solution {
                 }
             }
         }
-        return stack.isEmpty() ? true : false;
+        return stack.isEmpty();
     }
 }
+/**
+TC: O(n)
+SC: O(n)
+ */
