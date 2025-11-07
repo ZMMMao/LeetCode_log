@@ -1,41 +1,28 @@
-/**
-map the brackets
-stack
-
-Input: s = "()"
-
-Output: true
-
-edge case:
-empty s
-same left bracket s
-pairs of brackets
-all right brackets
-large size of brackets
-random order of pairs of brackets
-1 kind of brackets
-right brackets first and left brackets after
- */
-
 class Solution {
+    /**
+    three types of parentheses
+    stack
+    HashMap
+     */
     public boolean isValid(String s) {
+        Map<Character, Character> map = new HashMap<>();
+        map.put(')', '(');
+        map.put('}', '{');
+        map.put(']', '[');
+        Deque<Character> stack = new ArrayDeque<>();
         
-        Map<Character, Character> mapping = new HashMap<>();
-        mapping.put(')', '(');
-        mapping.put('}', '{');
-        mapping.put(']', '[');
-
-        Stack<Character> stack = new Stack<>();
-
-        for(char c : s.toCharArray()){
-            if(mapping.containsKey(c) && !stack.isEmpty() && mapping.get(c) == stack.peek()){
-                stack.pop();
-            }
-            else{
-                stack.push(c);
+        char[] ch = s.toCharArray();
+        for(int i = 0; i < ch.length; i++){
+            if(!map.containsKey(ch[i])){
+                stack.push(ch[i]);
+            }else{
+                if(stack.peek() == map.get(ch[i])){
+                    stack.pop();
+                }else{
+                    return false;
+                }
             }
         }
-
-        return stack.isEmpty();
+        return stack.isEmpty() ? true : false;
     }
 }
