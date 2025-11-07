@@ -12,6 +12,9 @@
 count length of the list
 n-1 point to n+1
 dummy head !
+
+TC: O(n)
+SC: O(1)
 */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
