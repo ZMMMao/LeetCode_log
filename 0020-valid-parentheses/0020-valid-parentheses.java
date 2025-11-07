@@ -12,11 +12,12 @@ class Solution {
         Deque<Character> stack = new ArrayDeque<>();
         
         char[] ch = s.toCharArray();
-        for(int i = 0; i < ch.length; i++){
-            if(!map.containsKey(ch[i])){
-                stack.push(ch[i]);
+        for(char c : ch){
+            if(!map.containsKey(c)){
+                stack.push(c);
             }else{
-                if(stack.peek() == map.get(ch[i])){
+                if(stack.isEmpty()) return false;
+                if(stack.peek() == map.get(c)){
                     stack.pop();
                 }else{
                     return false;
