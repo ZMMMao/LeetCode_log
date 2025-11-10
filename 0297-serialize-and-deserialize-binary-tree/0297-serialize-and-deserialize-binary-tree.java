@@ -9,7 +9,8 @@
  */
 /**
 BFS or DFS
-
+TC: O(n)
+SC: O(n)
  */
 public class Codec {
     String SEP = ",";
