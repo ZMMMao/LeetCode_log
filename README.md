@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ZMMMao/LeetCode_log/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ZMMMao/LeetCode_log/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ZMMMao/LeetCode_log/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ZMMMao/LeetCode_log/tree/master/0198-house-robber) |
