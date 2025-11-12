@@ -1,25 +1,33 @@
 /**
-Algo: Array sort, map counting anagrams
-Data Structure: Array, HashMap
-TC: O(n*klogk)
-SC: O(n*k)
-n is number of strs and k is the average length of each string
+input string[]
+output list<list<String>>
+hashmap
+key as a code, using int[26] to check the same key
+value a list of string
+TC: O(m*n), n: strs size, m: each string length
+SC: O(m*n)
  */
-
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> map = new HashMap<>();
+        Map<String, List<String>> group = new HashMap<>();
         for(String s : strs){
-            char[] arr = s.toCharArray();
-            Arrays.sort(arr);
-            String key = new String(arr);
-            if(!map.containsKey(key)){
-                map.put(key, new LinkedList<>());
-            } 
-
-            map.get(key).add(s);
+            String code = encode(s);
+            group.putIfAbsent(code, new ArrayList<>());
+            group.get(code).add(s);
         }
 
-        return new LinkedList<>(map.values());
+        List<List<String>> res = new ArrayList<>();
+        for(List<String> set : group.values()){
+            res.add(set);
+        }
+        return res;
+    }
+    private String encode(String s){
+        char[] count = new char[26];
+        for(char c : s.toCharArray()){
+            int curr = c - 'a';
+            count[curr]++;
+        }
+        return new String(count);    
     }
 }
