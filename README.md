@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ZMMMao/LeetCode_log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ZMMMao/LeetCode_log/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ZMMMao/LeetCode_log/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ZMMMao/LeetCode_log/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ZMMMao/LeetCode_log/tree/master/0200-number-of-islands) |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
