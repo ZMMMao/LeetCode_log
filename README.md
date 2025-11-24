@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0343-integer-break) |
+| [0371-sum-of-two-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/ZMMMao/LeetCode_log/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
 | ------- |
