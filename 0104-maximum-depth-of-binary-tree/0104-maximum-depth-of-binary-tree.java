@@ -13,26 +13,16 @@
  *     }
  * }
  */
+ /**
+ if null return 0
+ TC: O(n)
+ SC: O(n)
+  */
 class Solution {
     public int maxDepth(TreeNode root) {
         if(root == null) return 0;
-
-        int leftMax = maxDepth(root.left);
-        int rightMax = maxDepth(root.right);
-
-        return Math.max(leftMax, rightMax) + 1;
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+        return Math.max(left, right) + 1;
     }
 }
-
-/**
-TC: O(n)
-SC: O(logn)
-
-test case:
-empty node
-completely unbalanced tree
-balanced tree
-large tree
-small tree
-tree with all the node has same value
- */
