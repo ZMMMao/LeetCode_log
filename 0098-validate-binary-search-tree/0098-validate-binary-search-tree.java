@@ -14,24 +14,34 @@
  * }
  */
  /**
-input: TreeNode root
-input size: [1, 10^4]
-input range: int
-output boolean isValid
-null case: if null return true;
-traverse: 
-TC: O(n)
-SC: O(n)
+ input:
+    type: TreeNode
+    node number: [1, 10^4]
+    node.val: [-2^31, 2^31 - 1]
+output:
+    boolean
+edge case:
+    null return true
+approach:
+    traverse
+    TC: O(n)
+    SC: O(1)
   */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return isValid(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        if(root == null) return true;
+
+        return validate(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
 
-    private boolean isValid(TreeNode root, long min, long max){
-        if(root == null) return true;
-        long x = root.val;
-        if(x <= min || x >= max) return false;
-        return isValid(root.left, min, x) && isValid(root.right, x, max);
+    private boolean validate(TreeNode node, long min, long max){
+        if(node == null) return true;
+
+        if(node.val <= min || node.val >= max){
+            return false;
+        }
+
+        return validate(node.left, min, node.val) &&
+            validate(node.right, node.val, max);
     }
 }
