@@ -28,8 +28,7 @@ class Solution {
             
                 int curLen = 1;
 
-                while(count.contains(cur + 1)){
-                    cur++;
+                while(count.contains(cur + curLen)){
                     curLen++;
                 }
                 maxLen = Math.max(curLen, maxLen);
