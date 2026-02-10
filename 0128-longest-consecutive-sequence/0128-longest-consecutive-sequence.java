@@ -22,18 +22,18 @@ class Solution {
             count.add(num);
         }
         int maxLen = 0;
-        int n = nums.length; 
 
         for(int cur : count){
-            if(count.contains(cur - 1)) continue; 
+            if(!count.contains(cur - 1)){
             
-            int curLen = 1;
+                int curLen = 1;
 
-            while(count.contains(cur + 1)){
-                cur++;
-                curLen++;
+                while(count.contains(cur + 1)){
+                    cur++;
+                    curLen++;
+                }
+                maxLen = Math.max(curLen, maxLen);
             }
-            maxLen = Math.max(curLen, maxLen);
         }
 
         return maxLen;
