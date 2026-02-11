@@ -25,7 +25,7 @@ class Solution {
 
     private void backtrack(String s, int start){
         if(start == s.length()){
-            res.add(new LinkedList<>(path));
+            res.add(new ArrayList<>(path));
             return;
         }
 
