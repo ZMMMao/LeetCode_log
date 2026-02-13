@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3714-longest-balanced-substring-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3714-longest-balanced-substring-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3714-longest-balanced-substring-ii) |
 ## Queue
 |  |
 | ------- |
