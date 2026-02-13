@@ -17,28 +17,41 @@ class Node {
     }
 }
 */
-
+/**
+input:
+    type Node
+    node.val: [1, 100]
+    node number: [0, 100]
+output: 
+    Node
+edge case:
+    empty node return empty as well
+approach:
+    build a graph
+    TC: O(V + E)
+    SC: O(V)
+ */
 class Solution {
+    private Map<Node, Node> map = new HashMap<>();
+
     public Node cloneGraph(Node node) {
-        HashMap<Node, Node> lookup = new HashMap<>();
-        return dfs(node, lookup);
+        if(node == null) return node;
+        
+        return dfs(node);
     }
 
-    public Node dfs(Node node, Map<Node, Node> lookup){
-        if(node == null) return null;
+    private Node dfs(Node node){
+        if(node == null) return node;
 
-        if(lookup.containsKey(node)) return lookup.get(node);
+        if(map.containsKey(node)) return map.get(node);
 
-        Node copy = new Node(node.val, new ArrayList<Node>());
-        lookup.put(node, copy);
+        Node clone = new Node(node.val);
+        map.put(node, clone);
 
         for(Node neighbor : node.neighbors){
-            copy.neighbors.add(dfs(neighbor, lookup));
+            clone.neighbors.add(dfs(neighbor));
         }
-        return copy;
+
+        return clone;
     }
 }
-/**
-TC: O(V + E)
-SC: O(V)
- */
