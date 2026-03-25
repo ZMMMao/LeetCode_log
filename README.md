@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ZMMMao/LeetCode_log/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0015-3sum) |
@@ -65,8 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2868-continuous-subarrays) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ZMMMao/LeetCode_log/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0015-3sum) |
@@ -86,8 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ZMMMao/LeetCode_log/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ZMMMao/LeetCode_log/tree/master/0056-merge-intervals) |
@@ -105,8 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ZMMMao/LeetCode_log/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ZMMMao/LeetCode_log/tree/master/0035-search-insert-position) |
@@ -127,16 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ZMMMao/LeetCode_log/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ZMMMao/LeetCode_log/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
@@ -151,8 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ZMMMao/LeetCode_log/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0143-reorder-list) |
@@ -160,16 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ZMMMao/LeetCode_log/tree/master/1013-fibonacci-number) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZMMMao/LeetCode_log/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
@@ -197,15 +197,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3714-longest-balanced-substring-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
@@ -216,25 +216,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [2868-continuous-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/ZMMMao/LeetCode_log/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0838-design-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0838-design-linked-list) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
@@ -244,12 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZMMMao/LeetCode_log/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
@@ -274,31 +274,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZMMMao/LeetCode_log/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZMMMao/LeetCode_log/tree/master/0424-longest-repeating-character-replacement) |
@@ -316,16 +316,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
@@ -337,8 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
@@ -353,8 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ZMMMao/LeetCode_log/tree/master/1013-fibonacci-number) |
 | [2638-number-of-subarrays-having-even-product](https://github.com/ZMMMao/LeetCode_log/tree/master/2638-number-of-subarrays-having-even-product) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ZMMMao/LeetCode_log/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
@@ -363,20 +363,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3714-longest-balanced-substring-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/3714-longest-balanced-substring-ii) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2868-continuous-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2868-continuous-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2868-continuous-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2868-continuous-subarrays) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0100-same-tree) |
@@ -393,8 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ZMMMao/LeetCode_log/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -408,26 +408,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ZMMMao/LeetCode_log/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0261-graph-valid-tree) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ZMMMao/LeetCode_log/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ZMMMao/LeetCode_log/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ZMMMao/LeetCode_log/tree/master/0102-binary-tree-level-order-traversal) |
@@ -437,8 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ZMMMao/LeetCode_log/tree/master/0102-binary-tree-level-order-traversal) |
@@ -448,55 +448,55 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ZMMMao/LeetCode_log/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ZMMMao/LeetCode_log/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0098-validate-binary-search-tree) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ZMMMao/LeetCode_log/tree/master/0130-surrounded-regions) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/ZMMMao/LeetCode_log/tree/master/0146-lru-cache) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ZMMMao/LeetCode_log/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 <!---LeetCode Topics End-->
