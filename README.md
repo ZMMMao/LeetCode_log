@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ZMMMao/LeetCode_log/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ZMMMao/LeetCode_log/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
+| [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Linked List
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ZMMMao/LeetCode_log/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [2868-continuous-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2868-continuous-subarrays) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ZMMMao/LeetCode_log/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/ZMMMao/LeetCode_log/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [2890-count-substrings-without-repeating-character](https://github.com/ZMMMao/LeetCode_log/tree/master/2890-count-substrings-without-repeating-character) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
