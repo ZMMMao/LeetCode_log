@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
+| [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/main/0269-alien-dictionary/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
