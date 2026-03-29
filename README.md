@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/ZMMMao/LeetCode_log/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/ZMMMao/LeetCode_log/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ZMMMao/LeetCode_log/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/ZMMMao/LeetCode_log/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -519,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ZMMMao/LeetCode_log/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
