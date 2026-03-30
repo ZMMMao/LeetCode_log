@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZMMMao/LeetCode_log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ZMMMao/LeetCode_log/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0198-house-robber](https://github.com/ZMMMao/LeetCode_log/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ZMMMao/LeetCode_log/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0212-word-search-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZMMMao/LeetCode_log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ZMMMao/LeetCode_log/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ZMMMao/LeetCode_log/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ZMMMao/LeetCode_log/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ZMMMao/LeetCode_log/tree/master/0146-lru-cache) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ZMMMao/LeetCode_log/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZMMMao/LeetCode_log/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ZMMMao/LeetCode_log/tree/master/0146-lru-cache) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ZMMMao/LeetCode_log/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/ZMMMao/LeetCode_log/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 ## Matrix
 | Problem Name | Difficulty |
