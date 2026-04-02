@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/ZMMMao/LeetCode_log/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/0371-sum-of-two-integers) |
@@ -548,4 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ZMMMao/LeetCode_log/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ZMMMao/LeetCode_log/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
