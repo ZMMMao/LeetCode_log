@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ZMMMao/LeetCode_log/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ZMMMao/LeetCode_log/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ZMMMao/LeetCode_log/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/ZMMMao/LeetCode_log/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
