@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/ZMMMao/LeetCode_log/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZMMMao/LeetCode_log/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZMMMao/LeetCode_log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ZMMMao/LeetCode_log/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/main/0912-sort-an-array/) | Medium |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZMMMao/LeetCode_log/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0912-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/main/0912-sort-an-array/) | Medium |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 ## Design
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [2868-continuous-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -585,4 +590,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ZMMMao/LeetCode_log/tree/main/0258-add-digits/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
