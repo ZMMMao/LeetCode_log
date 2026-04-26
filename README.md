@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ZMMMao/LeetCode_log/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
+| [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ZMMMao/LeetCode_log/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0747-min-cost-climbing-stairs) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ZMMMao/LeetCode_log/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 | [0838-design-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0838-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0908-middle-of-the-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0908-middle-of-the-linked-list) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ZMMMao/LeetCode_log/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 | [0838-design-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0838-design-linked-list) |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
