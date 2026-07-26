@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ZMMMao/LeetCode_log/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ZMMMao/LeetCode_log/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ZMMMao/LeetCode_log/tree/main/0242-valid-anagram/) | Easy |
 | [0252-meeting-rooms](https://github.com/ZMMMao/LeetCode_log/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ZMMMao/LeetCode_log/tree/master/0146-lru-cache) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/ZMMMao/LeetCode_log/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0217-contains-duplicate](https://github.com/ZMMMao/LeetCode_log/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ZMMMao/LeetCode_log/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ZMMMao/LeetCode_log/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ZMMMao/LeetCode_log/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/ZMMMao/LeetCode_log/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0257-binary-tree-paths) |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
