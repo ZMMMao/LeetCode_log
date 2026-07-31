@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ZMMMao/LeetCode_log/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/ZMMMao/LeetCode_log/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/ZMMMao/LeetCode_log/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0047-permutations-ii/) | Medium |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/ZMMMao/LeetCode_log/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ZMMMao/LeetCode_log/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ZMMMao/LeetCode_log/tree/master/0141-linked-list-cycle) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0234-palindrome-linked-list) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ZMMMao/LeetCode_log/tree/main/0739-daily-temperatures/) | Medium |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ZMMMao/LeetCode_log/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
