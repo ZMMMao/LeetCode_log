@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/ZMMMao/LeetCode_log/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ZMMMao/LeetCode_log/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ZMMMao/LeetCode_log/tree/main/0155-min-stack/) | Medium |
 | [0170-two-sum-iii-data-structure-design](https://github.com/ZMMMao/LeetCode_log/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/ZMMMao/LeetCode_log/tree/master/0295-find-median-from-data-stream) |
