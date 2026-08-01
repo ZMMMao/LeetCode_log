@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ZMMMao/LeetCode_log/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZMMMao/LeetCode_log/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ZMMMao/LeetCode_log/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZMMMao/LeetCode_log/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZMMMao/LeetCode_log/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ZMMMao/LeetCode_log/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZMMMao/LeetCode_log/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0258-add-digits](https://github.com/ZMMMao/LeetCode_log/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0343-integer-break) |
