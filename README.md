@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/ZMMMao/LeetCode_log/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
