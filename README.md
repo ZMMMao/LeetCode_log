@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ZMMMao/LeetCode_log/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ZMMMao/LeetCode_log/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ZMMMao/LeetCode_log/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ZMMMao/LeetCode_log/tree/master/0134-gas-station) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/ZMMMao/LeetCode_log/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZMMMao/LeetCode_log/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/ZMMMao/LeetCode_log/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ZMMMao/LeetCode_log/tree/main/0739-daily-temperatures/) | Medium |
