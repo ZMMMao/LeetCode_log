@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ZMMMao/LeetCode_log/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0792-binary-search) |
+| [0853-car-fleet](https://github.com/ZMMMao/LeetCode_log/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/main/0912-sort-an-array/) | Medium |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
+| [0853-car-fleet](https://github.com/ZMMMao/LeetCode_log/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/main/0912-sort-an-array/) | Medium |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ZMMMao/LeetCode_log/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ZMMMao/LeetCode_log/tree/main/0844-backspace-string-compare/) | Easy |
+| [0853-car-fleet](https://github.com/ZMMMao/LeetCode_log/tree/main/0853-car-fleet/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ZMMMao/LeetCode_log/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ZMMMao/LeetCode_log/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/ZMMMao/LeetCode_log/tree/main/0853-car-fleet/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
