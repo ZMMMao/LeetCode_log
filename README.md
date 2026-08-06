@@ -707,4 +707,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ZMMMao/LeetCode_log/tree/main/0056-merge-intervals/) | Medium |
+| [0252-meeting-rooms](https://github.com/ZMMMao/LeetCode_log/tree/main/0252-meeting-rooms/) | Easy |
 <!---LeetCode Topics End-->
