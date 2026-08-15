@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ZMMMao/LeetCode_log/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/ZMMMao/LeetCode_log/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/ZMMMao/LeetCode_log/tree/main/0286-walls-and-gates/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ZMMMao/LeetCode_log/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ZMMMao/LeetCode_log/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ZMMMao/LeetCode_log/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0212-word-search-ii) |
+| [0286-walls-and-gates](https://github.com/ZMMMao/LeetCode_log/tree/main/0286-walls-and-gates/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/ZMMMao/LeetCode_log/tree/main/0994-rotting-oranges/) | Medium |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0226-invert-binary-tree/) | Easy |
 | [0261-graph-valid-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/master/0269-alien-dictionary) |
+| [0286-walls-and-gates](https://github.com/ZMMMao/LeetCode_log/tree/main/0286-walls-and-gates/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
