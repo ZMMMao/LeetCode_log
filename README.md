@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ZMMMao/LeetCode_log/tree/main/0207-course-schedule/) | Medium |
+| [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/main/0269-alien-dictionary/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
