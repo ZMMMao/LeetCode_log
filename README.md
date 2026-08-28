@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ZMMMao/LeetCode_log/tree/main/0207-course-schedule/) | Medium |
+| [0261-graph-valid-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0261-graph-valid-tree/) | Medium |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/main/0269-alien-dictionary/) | Hard |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ZMMMao/LeetCode_log/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0200-number-of-islands/) | Medium |
+| [0261-graph-valid-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/ZMMMao/LeetCode_log/tree/main/0547-number-of-provinces/) | Medium |
 ## Doubly-Linked List
