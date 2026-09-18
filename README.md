@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ZMMMao/LeetCode_log/tree/main/0207-course-schedule/) | Medium |
 | [0269-alien-dictionary](https://github.com/ZMMMao/LeetCode_log/tree/main/0269-alien-dictionary/) | Hard |
+| [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
