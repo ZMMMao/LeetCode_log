@@ -731,4 +731,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ZMMMao/LeetCode_log/tree/main/0056-merge-intervals/) | Medium |
 | [0252-meeting-rooms](https://github.com/ZMMMao/LeetCode_log/tree/main/0252-meeting-rooms/) | Easy |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
