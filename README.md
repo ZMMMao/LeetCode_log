@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ZMMMao/LeetCode_log/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/ZMMMao/LeetCode_log/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ZMMMao/LeetCode_log/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ZMMMao/LeetCode_log/tree/master/0138-copy-list-with-random-pointer) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/ZMMMao/LeetCode_log/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/ZMMMao/LeetCode_log/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/ZMMMao/LeetCode_log/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ZMMMao/LeetCode_log/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0212-word-search-ii) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ZMMMao/LeetCode_log/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ZMMMao/LeetCode_log/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/ZMMMao/LeetCode_log/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/ZMMMao/LeetCode_log/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ZMMMao/LeetCode_log/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ZMMMao/LeetCode_log/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -739,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/ZMMMao/LeetCode_log/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/ZMMMao/LeetCode_log/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
