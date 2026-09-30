@@ -746,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/ZMMMao/LeetCode_log/tree/main/0127-word-ladder/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
