@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZMMMao/LeetCode_log/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ZMMMao/LeetCode_log/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/ZMMMao/LeetCode_log/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0076-minimum-window-substring) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZMMMao/LeetCode_log/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0005-longest-palindromic-substring) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ZMMMao/LeetCode_log/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ZMMMao/LeetCode_log/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ZMMMao/LeetCode_log/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0040-combination-sum-ii/) | Medium |
