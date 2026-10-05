@@ -753,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZMMMao/LeetCode_log/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
