@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ZMMMao/LeetCode_log/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ZMMMao/LeetCode_log/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/ZMMMao/LeetCode_log/tree/main/0012-integer-to-roman/) | Medium |
+| [0029-divide-two-integers](https://github.com/ZMMMao/LeetCode_log/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/ZMMMao/LeetCode_log/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ZMMMao/LeetCode_log/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0070-climbing-stairs) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ZMMMao/LeetCode_log/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/ZMMMao/LeetCode_log/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0136-single-number) |
