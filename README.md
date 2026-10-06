@@ -764,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/main/0022-generate-parentheses/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
