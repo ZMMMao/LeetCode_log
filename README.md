@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/ZMMMao/LeetCode_log/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ZMMMao/LeetCode_log/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/ZMMMao/LeetCode_log/tree/master/0075-sort-colors) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ZMMMao/LeetCode_log/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ZMMMao/LeetCode_log/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ZMMMao/LeetCode_log/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ZMMMao/LeetCode_log/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ZMMMao/LeetCode_log/tree/master/0076-minimum-window-substring) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -779,4 +782,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/ZMMMao/LeetCode_log/tree/main/0051-n-queens/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
