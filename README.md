@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/ZMMMao/LeetCode_log/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/ZMMMao/LeetCode_log/tree/main/0853-car-fleet/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/ZMMMao/LeetCode_log/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/main/0912-sort-an-array/) | Medium |
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ZMMMao/LeetCode_log/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ZMMMao/LeetCode_log/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ZMMMao/LeetCode_log/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
