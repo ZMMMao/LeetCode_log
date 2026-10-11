@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/ZMMMao/LeetCode_log/tree/main/0994-rotting-oranges/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZMMMao/LeetCode_log/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ZMMMao/LeetCode_log/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ZMMMao/LeetCode_log/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ZMMMao/LeetCode_log/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZMMMao/LeetCode_log/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ZMMMao/LeetCode_log/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/2394-count-subarrays-with-score-less-than-k) |
