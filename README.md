@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ZMMMao/LeetCode_log/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ZMMMao/LeetCode_log/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
 | [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/ZMMMao/LeetCode_log/tree/master/0713-subarray-product-less-than-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/ZMMMao/LeetCode_log/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [0853-car-fleet](https://github.com/ZMMMao/LeetCode_log/tree/main/0853-car-fleet/) | Medium |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ZMMMao/LeetCode_log/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ZMMMao/LeetCode_log/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/ZMMMao/LeetCode_log/tree/main/0286-walls-and-gates/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZMMMao/LeetCode_log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/ZMMMao/LeetCode_log/tree/main/0994-rotting-oranges/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ZMMMao/LeetCode_log/tree/main/0547-number-of-provinces/) | Medium |
 | [0549-binary-tree-longest-consecutive-sequence-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0549-binary-tree-longest-consecutive-sequence-ii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZMMMao/LeetCode_log/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/ZMMMao/LeetCode_log/tree/main/0547-number-of-provinces/) | Medium |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/ZMMMao/LeetCode_log/tree/main/0994-rotting-oranges/) | Medium |
@@ -692,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0572-subtree-of-another-tree) |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -718,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ZMMMao/LeetCode_log/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/ZMMMao/LeetCode_log/tree/main/0547-number-of-provinces/) | Medium |
+| [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
