@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ZMMMao/LeetCode_log/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZMMMao/LeetCode_log/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
+| [1254-number-of-closed-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ZMMMao/LeetCode_log/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0711-number-of-distinct-islands-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0711-number-of-distinct-islands-ii/) | Hard |
 | [0994-rotting-oranges](https://github.com/ZMMMao/LeetCode_log/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0711-number-of-distinct-islands-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0711-number-of-distinct-islands-ii/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
 ## Breadth-First Search
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/ZMMMao/LeetCode_log/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/ZMMMao/LeetCode_log/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union Find
 | Problem Name | Difficulty |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ZMMMao/LeetCode_log/tree/main/0547-number-of-provinces/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0711-number-of-distinct-islands-ii](https://github.com/ZMMMao/LeetCode_log/tree/main/0711-number-of-distinct-islands-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/ZMMMao/LeetCode_log/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
