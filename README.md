@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0966-binary-subarrays-with-sum](https://github.com/ZMMMao/LeetCode_log/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ZMMMao/LeetCode_log/tree/master/1034-subarrays-with-k-different-integers) |
+| [1166-design-file-system](https://github.com/ZMMMao/LeetCode_log/tree/main/1166-design-file-system/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/1370-count-number-of-nice-subarrays) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ZMMMao/LeetCode_log/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ZMMMao/LeetCode_log/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ZMMMao/LeetCode_log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0706-design-hashmap](https://github.com/ZMMMao/LeetCode_log/tree/main/0706-design-hashmap/) | Easy |
 | [0838-design-linked-list](https://github.com/ZMMMao/LeetCode_log/tree/master/0838-design-linked-list) |
+| [1166-design-file-system](https://github.com/ZMMMao/LeetCode_log/tree/main/1166-design-file-system/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/main/0767-reorganize-string/) | Medium |
 | [0778-reorganize-string](https://github.com/ZMMMao/LeetCode_log/tree/master/0778-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/ZMMMao/LeetCode_log/tree/main/0844-backspace-string-compare/) | Easy |
+| [1166-design-file-system](https://github.com/ZMMMao/LeetCode_log/tree/main/1166-design-file-system/) | Medium |
 | [2890-count-substrings-without-repeating-character](https://github.com/ZMMMao/LeetCode_log/tree/master/2890-count-substrings-without-repeating-character) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/ZMMMao/LeetCode_log/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ZMMMao/LeetCode_log/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/ZMMMao/LeetCode_log/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/ZMMMao/LeetCode_log/tree/master/0692-top-k-frequent-words) |
+| [1166-design-file-system](https://github.com/ZMMMao/LeetCode_log/tree/main/1166-design-file-system/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
